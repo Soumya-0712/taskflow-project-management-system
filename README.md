@@ -199,7 +199,7 @@ MAILTRAP_SMTP_PASS=
 
 ### Dashboard
 
-![Dashboard](<Screenshot 2026-06-07 222959.png>)
+![Dashboard](./Screenshots/Dashboard.png)
 
 ---
 
